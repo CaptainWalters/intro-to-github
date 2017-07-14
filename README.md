@@ -12,3 +12,5 @@ https://matterhorn-presentation.uscs.susx.ac.uk/engage/theodul/ui/core.html?id=d
 https://try.github.io Github's walkthrough of stating to use git and GitHub
 
 https://education.github.com/pack - STUDENT DEVELOPER PACK!
+
+http://ohshitgit.com/ - When you done fucked up
